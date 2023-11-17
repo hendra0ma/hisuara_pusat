@@ -106,14 +106,10 @@
         <div class="page">
             <div class="">
                 <!-- CONTAINER OPEN -->
-                <div class="col col-login mx-auto">
-                    <div class="text-center">
-                        <img src="<?= base_url('') ?>assets/images/hisuara.png" class="img-fluid img-thumbnail bg-dark shadow-lg border-0" style="width:130px;height:auto;" alt="">
-                    </div>
-                </div>
                 <div class="container-login100 d-flex">
                     <div class="wrap-login100 p-0">
                         <div class="card-body">
+                        <img src="<?= base_url('') ?>assets/images/hisuara_new.png" class="img-fluid img-thumbnail bg-dark shadow-lg border-0" style="width:130px;height:auto;" alt="">
                             <form class="login100-form validate-form" method="POST" action="<?= base_url('') ?>auth/action_login">
                                 <input type="hidden" name="_token" value="pdeCGUJuHZKZH9C8W40OyrzCco8oGzawGBZ1hDqF">
                                 <input type="hidden" id="latitude" name="latitude">
