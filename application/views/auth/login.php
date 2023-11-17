@@ -108,7 +108,7 @@
                 <!-- CONTAINER OPEN -->
                 <div class="col col-login mx-auto">
                     <div class="text-center">
-                        <img src="<?= base_url('') ?>assets/images/garuda.png" class="img-fluid img-thumbnail mx-auto mb-3 border-0" style="width:200px;height:auto;" alt="">
+                        <img src="<?= base_url('') ?>assets/images/garuda.png" class="img-fluid mx-auto mb-3 border-0" style="width:150px;height:auto;" alt="">
                     </div>
                 </div>
                 <div class="container-login100 d-flex">
