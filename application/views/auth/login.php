@@ -127,7 +127,7 @@
                                 <input type="hidden" id="longitude" name="longitude">
 
 
-                                <span class="login100-form-title">
+                                <span class="login100-form-title" style="padding-bottom: 0.75rem ">
                                     Login
                                 </span>
                                 <?php if ($this->session->flashdata('error')) { ?>
