@@ -148,7 +148,7 @@
         <div class="page">
             <div class="">
                 <!-- CONTAINER OPEN -->
-                <div class="col col-login mx-auto">
+                <div class="col col-login mx-auto mt-5">
                     <div class="text-center">
                         <img src="<?= base_url('') ?>assets/images/garuda.png" class="img-fluid mx-auto mb-3 border-0" style="width:150px;height:auto;" alt="">
                     </div>
@@ -336,7 +336,7 @@
                                             </button>
                                         </div>
                                         <div class="text-center pt-3">
-                                            <p class="text-dark mb-0">Already have account?<a href="<?= base_url('auth/') ?>" class="text-primary ms-1">Sign In</a></p>
+                                            <p class="text-dark mb-0">Already have account?<a href="<?= base_url('/') ?>" class="text-primary ms-1">Sign In</a></p>
                                         </div>
                                     </form>
                                 </div>
