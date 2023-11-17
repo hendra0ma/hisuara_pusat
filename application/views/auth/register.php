@@ -161,12 +161,12 @@
                                 <div class="card-body">
                                     <div class="col col-login mx-auto">
                                         <div class="text-center">
-                                            <img src="<?= base_url('') ?>assets/images/hisuara_new.png" class="img-fluid img-thumbnail mx-auto mb-3 border-0" style="width:130px;height:auto;" alt="">
+                                            <img src="<?= base_url('') ?>assets/images/hisuara_new.png" class="img-fluid img-thumbnail mx-auto mb-3 border-0" style="width:150px;height:auto;" alt="">
                                         </div>
                                     </div>
                                     <form class="justify-content-center validate-form" method="POST" action="<?= base_url() ?>auth/daftar"enctype="multipart/form-data">
                                         <span class="login100-form-title" style="padding-bottom: 0.75rem ">
-                                            Registration
+                                            Registrasi
                                         </span>
                                         <?php if ($this->session->flashdata('error')) : ?>
                                             <div class="alert alert-damger alert-dismissible fade show" role="alert">
