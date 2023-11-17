@@ -112,7 +112,7 @@
                             <!-- CONTAINER OPEN -->
                             <div class="col col-login mx-auto">
                                 <div class="text-center">
-                                    <img src="<?= base_url('') ?>assets/images/hisuara_new.png" class="img-fluid img-thumbnail mx-auto shadow-lg border-0" style="width:130px;height:auto;" alt="">
+                                    <img src="<?= base_url('') ?>assets/images/hisuara_new.png" class="img-fluid img-thumbnail mx-auto mb-3 border-0" style="width:130px;height:auto;" alt="">
                                 </div>
                             </div>
 
